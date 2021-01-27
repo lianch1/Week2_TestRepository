@@ -1,5 +1,6 @@
 /*
-This is my second commit.
+This is my third commit.
+Testing .gitignore feature.
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
